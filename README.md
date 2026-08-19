@@ -38,19 +38,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abek1278&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abek1278&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abek1278&theme=radical&hide_border=true" />
-</p>
-
-<br>
-
 ## 🌐 Connect with Me
 
 <p align="center">
